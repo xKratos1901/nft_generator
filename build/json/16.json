@@ -1,0 +1,39 @@
+{
+  "name": "Tavi's custom testnet #16",
+  "description": "app testing",
+  "image": "ipfs://QmckTe6RnnUwxGYGRzfh9YQ7imui9BkSnbpX3DjWdJSwvx/16.png",
+  "dna": "a429f03bc0e0e4703dea8c2f75d62d4a99f4f8a7",
+  "edition": 16,
+  "date": 1646907263834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Caracter"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Samurai"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Barber"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cinema"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Police"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Venom"
+    }
+  ],
+  "compiler": "Tavi's Compiler"
+}

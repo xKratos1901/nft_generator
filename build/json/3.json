@@ -1,0 +1,39 @@
+{
+  "name": "Tavi's custom testnet #3",
+  "description": "app testing",
+  "image": "ipfs://QmckTe6RnnUwxGYGRzfh9YQ7imui9BkSnbpX3DjWdJSwvx/3.png",
+  "dna": "792215151529bf23d9815f47a9dda3b1e9d9d824",
+  "edition": 3,
+  "date": 1646907262676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Caracter"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "Colonel"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Barber"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cinema"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Military"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Venom"
+    }
+  ],
+  "compiler": "Tavi's Compiler"
+}
